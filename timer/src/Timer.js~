@@ -1,0 +1,12 @@
+import React from 'react';
+
+let Timer = () => 
+	<div>
+	<h1>25 : 00 </h1>
+	</div>;
+
+class Timer extends React.Component {
+	
+}
+
+export default Timer;
